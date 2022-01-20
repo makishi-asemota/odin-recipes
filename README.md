@@ -1,1 +1,2 @@
 # odin-recipes
+I am going to be making a recipe website that has multiple pages. After finishing this project, I will have shown the skills: creating and editing a webpage, adding elements to a webpage suchj as links and images, adding text to a webpage.
